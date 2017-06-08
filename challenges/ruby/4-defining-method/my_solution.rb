@@ -5,6 +5,5 @@
 
 # Tu solucion abajo:
 
-def do_something(a,b,c) #arity, signature
-
+def do_something(a,b,c) 
 end
