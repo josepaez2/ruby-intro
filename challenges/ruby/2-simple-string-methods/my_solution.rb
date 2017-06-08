@@ -5,6 +5,9 @@
 old_string = "Ruby is cool"
 new_string = old_string.upcase.reverse
 
+
+
+
 # Pruebas NO LAS BORRES
 
 
