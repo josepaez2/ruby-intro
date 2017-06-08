@@ -2,11 +2,19 @@
 
 # Tu solucion abajo
 
-first_name = 'Juan'
-last_name = 'fdsaf'
-age = 2
+# first_name = 'Juan'
+# last_name = 'fdsaf'
+# age = 2
 
-name = "Germán"
+# name = "Germán"
+# name = gets.chomp
+# puts "Hola #{name}"
+
+first_name = 'Jose'
+last_name = 'Paez'
+age = 28
+
+name = "Pedro"
 name = gets.chomp
 puts "Hola #{name}"
 
