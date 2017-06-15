@@ -15,7 +15,6 @@ first_name = 'Jose'
 last_name = 'Paez'
 age = 28
 
-name = "Pedro"
 name = gets.chomp
 puts "Hola #{name}"
 
